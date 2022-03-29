@@ -9,8 +9,6 @@ export const COLORS = [
   "blue", "violet",
   "grey", "white"];
 
-  
-
 // to look up the numerical value associated with a particular color band
 // to list the different band colors
 

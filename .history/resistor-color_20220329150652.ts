@@ -1,15 +1,8 @@
-export const colorCode = (value: string) => {
+export const colorCode = () => {
   return COLORS.indexOf(value);
 }
 
-export const COLORS = [
-  "black", "brown",
-  "red", "orange",
-  "yellow", "green",
-  "blue", "violet",
-  "grey", "white"];
-
-  
+export const COLORS = undefined
 
 // to look up the numerical value associated with a particular color band
 // to list the different band colors
@@ -24,3 +17,8 @@ export const COLORS = [
 // Violet: 7
 // Grey: 8
 // White: 9
+
+export const colorCode = (value: string) => {
+  
+}
+export const COLORS = 
